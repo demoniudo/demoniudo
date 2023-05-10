@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra entrar em contato, mande um emaiul ou mensagem noas redes abaixo:
+  ### Pra entrar em contato, mande um E-mail ou mensagem nas redes abaixo:
  
 <div> 
   <a href="https://instagram.com/demoniudo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
