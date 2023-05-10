@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do JeanF 😁
+## oii! Eu sou o jean Felipe, dev iniciante e com muita vontade de aprender!
 
  <div>
    <a href="https://github.com/demoniudo">
