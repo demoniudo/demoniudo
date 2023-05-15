@@ -1,4 +1,4 @@
-## oii! Eu sou o jean Felipe, dev iniciante e com muita vontade de aprender!
+## oii! Eu sou Jean Felipe, dev iniciante e com muita vontade de aprender!
 
  <div>
    <a href="https://github.com/demoniudo">
